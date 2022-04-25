@@ -6,3 +6,4 @@ A slide deck consisting of no more than 5 slides created with R Studio Presenter
 
 
 Here is some documents about the project https://rpubs.com/bnaly
+And Here is the link of final project https://bnaly.shinyapps.io/predict-words/ that predict words using Natural Language Process (NLP). y using R-Programming Language.
